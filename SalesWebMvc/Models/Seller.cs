@@ -24,6 +24,7 @@ namespace SalesWebMvc.Models
 
         public Seller()
         {
+
         }
 
         public Seller(int iD, string name, string email, DateTime birthDate, double baseSalary, Department department)
